@@ -1,4 +1,5 @@
 "# EJS (https://github.com/hwaqar44/EJS)" 
+A new Javascript UI Framework, Doing just for fun
 
 
  Simple default button
