@@ -4,7 +4,8 @@ A new Javascript UI Framework, Doing just for fun
 
  Simple default button
 
-```new E.button({
+```
+new E.button({
     text: "Click Me!",
     parent: E.getId('main') // appending button to a element of ID = 'main'
 });
